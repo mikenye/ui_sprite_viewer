@@ -1,2 +1,11 @@
 # ui_sprite_viewer
-Viewer of plane-watch/pw-ui sprites
+
+An easy way to see the aircraft sprites
+
+## Run
+
+```
+go run ./...
+```
+
+Mousewheel changes sprite ID.
